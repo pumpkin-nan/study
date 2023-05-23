@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "baf1705c850b3aba",
@@ -174,6 +175,10 @@
   },
   "active": "2aff2ecfe68619f9",
   "lastOpenFiles": [
+    "面试相关/Vue电商项目 1.xmind",
+    "面试相关/必有人重写爱情（著名诗人北岛亲定“自传性”读本，读北岛，这一本就够了 理想国出品） (北岛) (Z-Library).epub",
+    "面试相关/必有人重写爱情（著名诗人北岛亲定“自传性”读本，读北岛，这一本就够了 理想国出品） (北岛) (Z-Library) 1.epub",
+    "面试相关/Vue电商项目.xmind",
     "qqq",
     "面试相关/vue笔记/vue2笔记.md",
     "面试相关/vue笔记/vue3快速上手.md",
@@ -185,10 +190,6 @@
     "面试相关/images/Pasted image 20230519164357.png",
     "面试相关/images/原型链.canvas",
     "面试相关/01 项目总结.md",
-    "面试相关/Vue电商项目 1.xmind",
-    "面试相关/Vue电商项目.xmind",
-    "面试相关/必有人重写爱情（著名诗人北岛亲定“自传性”读本，读北岛，这一本就够了 理想国出品） (北岛) (Z-Library) 1.epub",
-    "面试相关/必有人重写爱情（著名诗人北岛亲定“自传性”读本，读北岛，这一本就够了 理想国出品） (北岛) (Z-Library).epub",
     "面试相关/css+html笔记/CSS2笔记.pdf",
     "面试相关/vue笔记",
     "面试相关/css+html笔记/HTML5笔记.pdf",
