@@ -456,7 +456,7 @@ module.exports = {
 
 1. 创建文件：```src/store/index.js```
 
-   ```js
+   ```javascript
    //引入Vue核心库
    import Vue from 'vue'
    //引入Vuex

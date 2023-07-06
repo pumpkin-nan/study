@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "28a96fa756ee3a97",
+        "id": "272283a0fe9f2b9c",
         "type": "tabs",
         "children": [
           {
-            "id": "f0c1fb77a0b5c047",
+            "id": "3ec15d5b29c9289c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "面试相关/02 面试题.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "baf1705c850b3aba",
@@ -173,36 +172,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2aff2ecfe68619f9",
+  "active": "3ec15d5b29c9289c",
   "lastOpenFiles": [
+    "面试相关/03 简历案例汇总.md",
+    "面试相关/02 面试题.md",
+    "面试相关/04 其他.md",
+    "面试相关/01 项目总结.md",
+    "面试相关/硅谷甄选项目笔记.md",
+    "面试相关/王楠.pdf",
+    "面试相关/vue笔记/vue3快速上手.md",
+    "面试相关/typora_photo/Pasted image 20230608214759.png",
+    "面试相关/typora_photo/Pasted image 20230608144433.png",
+    "面试相关/typora_photo/Pasted image 20230519172853.png",
+    "面试相关/typora_photo/Pasted image 20230601153648.png",
+    "面试相关/typora_photo/Pasted image 20230601162820.png",
+    "面试相关/typora_photo/Pasted image 20230601150048.png",
+    "面试相关/typora_photo/Pasted image 20230601145639.png",
+    "面试相关/typora_photo/Pasted image 20230607181305.png",
+    "面试相关/vue笔记/vue2笔记.md",
+    "未命名.canvas",
+    "面试相关/images/原型链.canvas",
+    "面试相关/images/Pasted image 20230519155424.png",
+    "面试相关/images/Pasted image 20230519163429.png",
+    "面试相关/typora_photo",
+    "面试相关/css+html笔记/CSS3笔记.pdf",
+    "面试相关/css+html笔记/HTML5笔记.pdf",
+    "面试相关/vue笔记/03 如何写自我介绍.md",
+    "面试相关/vue笔记/typora_photo",
+    "面试相关/css+html笔记/CSS2笔记.pdf",
+    "2023-05-24.md",
     "面试相关/Vue电商项目 1.xmind",
     "面试相关/必有人重写爱情（著名诗人北岛亲定“自传性”读本，读北岛，这一本就够了 理想国出品） (北岛) (Z-Library).epub",
     "面试相关/必有人重写爱情（著名诗人北岛亲定“自传性”读本，读北岛，这一本就够了 理想国出品） (北岛) (Z-Library) 1.epub",
-    "面试相关/Vue电商项目.xmind",
-    "qqq",
-    "面试相关/vue笔记/vue2笔记.md",
-    "面试相关/vue笔记/vue3快速上手.md",
-    "面试相关/02 面试题.md",
-    "未命名.canvas",
-    "面试相关/images/Pasted image 20230519155424.png",
-    "面试相关/images/Pasted image 20230519163429.png",
-    "面试相关/images/Pasted image 20230519172853.png",
-    "面试相关/images/Pasted image 20230519164357.png",
-    "面试相关/images/原型链.canvas",
-    "面试相关/01 项目总结.md",
-    "面试相关/css+html笔记/CSS2笔记.pdf",
-    "面试相关/vue笔记",
-    "面试相关/css+html笔记/HTML5笔记.pdf",
-    "面试相关/css+html笔记",
-    "面试相关/css+html笔记/HTML4笔记.pdf",
-    "面试相关/css+html笔记/CSS3笔记.pdf",
     "面试相关/Pasted image 20230519163415.png.md",
-    "面试相关/images/Pasted image 20230519164328.png",
-    "面试相关/images/Pasted image 20230519170519.png",
-    "面试相关/images/Pasted image 20230519170526.png",
-    "面试相关/images/Pasted image 20230519191911.png",
-    "面试相关/images/Pasted image 20230519170452.png",
-    "面试相关/images/Pasted image 20230519163415.png",
     "面试相关/().md"
   ]
 }
