@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "272283a0fe9f2b9c",
+        "id": "e47c39d63b26d51d",
         "type": "tabs",
         "children": [
           {
-            "id": "3ec15d5b29c9289c",
+            "id": "f41461f029deecd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "面试相关/02 面试题.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 262.5
   },
   "right": {
     "id": "baf1705c850b3aba",
@@ -172,28 +172,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3ec15d5b29c9289c",
+  "active": "f41461f029deecd8",
   "lastOpenFiles": [
-    "面试相关/03 简历案例汇总.md",
     "面试相关/02 面试题.md",
+    "面试相关/05 Vue3.md",
     "面试相关/04 其他.md",
     "面试相关/01 项目总结.md",
+    "面试相关/vue笔记/typora_photo/Pasted image 20230528210244.png",
+    "面试相关/03 简历案例汇总.md",
     "面试相关/硅谷甄选项目笔记.md",
+    "面试相关/王楠.pdf.md",
+    "面试相关/typora_photo/vue3新特性.png",
+    "面试相关/hi.jpg",
+    "面试相关/Pasted.md",
+    "面试相关/vue笔记/typora_photo/Pasted image 20230528210108.png",
+    "面试相关/vue笔记/typora_photo/Pasted image 20230528210126.png",
+    "面试相关/vue笔记/typora_photo/Pasted image 20230528210231.png",
     "面试相关/王楠.pdf",
     "面试相关/vue笔记/vue3快速上手.md",
     "面试相关/typora_photo/Pasted image 20230608214759.png",
     "面试相关/typora_photo/Pasted image 20230608144433.png",
     "面试相关/typora_photo/Pasted image 20230519172853.png",
     "面试相关/typora_photo/Pasted image 20230601153648.png",
-    "面试相关/typora_photo/Pasted image 20230601162820.png",
-    "面试相关/typora_photo/Pasted image 20230601150048.png",
-    "面试相关/typora_photo/Pasted image 20230601145639.png",
-    "面试相关/typora_photo/Pasted image 20230607181305.png",
     "面试相关/vue笔记/vue2笔记.md",
     "未命名.canvas",
     "面试相关/images/原型链.canvas",
-    "面试相关/images/Pasted image 20230519155424.png",
-    "面试相关/images/Pasted image 20230519163429.png",
     "面试相关/typora_photo",
     "面试相关/css+html笔记/CSS3笔记.pdf",
     "面试相关/css+html笔记/HTML5笔记.pdf",
